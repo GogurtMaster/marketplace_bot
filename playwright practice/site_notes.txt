@@ -1,0 +1,31 @@
+<article class="product_pod">
+- contains each books info price, title, picture, rating, and link to store page
+
+    <div class="image_container">
+    - contains image and link
+
+        <a href="catalogue/a-light-in-the-attic_1000/index.html">
+        - link to store page wrapped around image
+
+            <img src="media/cache/2c/da/2cdad67….jpg" alt="A Light in the Attic" class="thumbnail">
+            - link to image and alternate text with book title
+
+        </a>
+    </div>
+    
+    <p class="star-rating Three">…</p>
+    - star arating out of 5
+
+    <h3>
+        <a href="catalogue/a-light-in-the-attic_1000/index.html" title="A Light in the Attic">A Light in the ...</a>
+        - link to store page and book title
+    </h3>
+
+    <div class="product_price">
+        <p class="price_color">£51.77</p>
+        - price of book
+
+        <p class="instock availability">…</p>
+        - is in stock?
+
+        
